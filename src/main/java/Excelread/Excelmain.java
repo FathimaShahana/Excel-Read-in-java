@@ -11,7 +11,7 @@ public class Excelmain {
 		
 		String x1= Excelcode.readStringData(1, 0);
 		System.out.println(x1);
-		System.out.println(x1);
+		System.out.println("haya");
 		
 		
 		
