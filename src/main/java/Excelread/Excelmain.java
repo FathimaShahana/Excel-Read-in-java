@@ -11,9 +11,14 @@ public class Excelmain {
 		
 		String x1= Excelcode.readStringData(1, 0);
 		System.out.println(x1);
-		System.out.println("haya");
 		
 		
+		String y=Excelcode.readIntegerData(1, 1);
+		System.out.println(y);
+		
+		String y1=Excelcode.readIntegerData(0, 1);
+		System.out.println(y1);
+	
 		
 	}
 }
